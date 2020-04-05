@@ -5,6 +5,3 @@ function addElementToBeginningOfArray(array = Name, element) {
   element = ['Rj', 'Jessie']
   return ['joey'. ...element]
 }
-
-
-
